@@ -1,0 +1,7 @@
+git branching strategy:
+
+     MAIN BRANCH / MASTER BRANCH -  GOLDEN COPY 
+     RELEASE BRANCH - >
+     DEVELOP
+
+     s
